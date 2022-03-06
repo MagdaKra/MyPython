@@ -1,1 +1,1 @@
-# pathon-kurz-2022
+# python-kurz-2022
