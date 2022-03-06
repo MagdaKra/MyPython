@@ -1,1 +1,1 @@
-# python-kurz-2022
+# mypython
